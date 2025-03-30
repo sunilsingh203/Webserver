@@ -45,8 +45,8 @@ A Java implementation of client-server communication with both basic messaging a
    java FileTransferServer
 2.Then run the client (can run multiple instances):
    
-   `javac FileTransferServer.java`
-   ` java FileTransferServer`
+    javac FileTransferServer.java
+    java FileTransferServer
 
 
 
