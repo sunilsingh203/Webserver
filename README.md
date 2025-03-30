@@ -44,10 +44,9 @@ A Java implementation of client-server communication with both basic messaging a
    javac FileTransferServer.java
    java FileTransferServer
 2.Then run the client (can run multiple instances):
-    ```bash 
-      javac FileTransferClient.java
-      ava FileTransferClient
-
+   
+   `javac FileTransferServer.java`
+   ` java FileTransferServer`
 
 
 
